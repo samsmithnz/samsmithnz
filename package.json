@@ -1,0 +1,22 @@
+{
+  "name": "samsmithnz",
+  "version": "1.0.0",
+  "description": "<!--\r **samsmithnz/samsmithnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsmithnz/samsmithnz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsmithnz/samsmithnz/issues"
+  },
+  "homepage": "https://github.com/samsmithnz/samsmithnz#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
