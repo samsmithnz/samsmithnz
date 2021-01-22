@@ -1,4 +1,4 @@
-I am Sam Smith, an Application Development Manager at Microsoft, helping customers with their software development journeys.
+I am Sam Smith, an Application Development Manager at Microsoft, helping empower customers on their software development journeys.
 
 <ul>
     <li>
