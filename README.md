@@ -15,4 +15,4 @@ I am Sam Smith, an Application Development Manager at Microsoft, helping custome
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Monday, April 26, 2:03 AM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Monday, April 26, 8:04 AM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
