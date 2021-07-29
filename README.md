@@ -1,4 +1,4 @@
-I am Sam Smith, an Customer Success Architect at GitHub, helping customers with their DevOps journeys in GitHub.
+I am Sam Smith, a Customer Success Architect at GitHub, helping customers with their DevOps journeys in GitHub.
 
 <ul>
     <li>
