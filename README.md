@@ -1,8 +1,8 @@
-I am Sam Smith, an Application Development Manager at Microsoft, helping customers with their software development journeys.
+I am Sam Smith, an Customer Success Arcitect at GitHub, helping customers with their DevOps journeys in GitHub.
 
 <ul>
     <li>
-        I'm primarily interested in developer productivity with DevOps and .NET.
+        I'm primarily interested in developer productivity with DevOps and GitHub. I am also interested in .NET, Azure PaaS, and game development
     </li>
     <li>
         I'm on Twitter: https://twitter.com/samsmithnz
