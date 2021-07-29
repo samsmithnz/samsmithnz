@@ -1,8 +1,8 @@
-I am Sam Smith, an Application Development Manager at Microsoft, helping customers with their software development journeys.
+I am Sam Smith, a Customer Success Architect at GitHub, helping customers with their DevOps journeys with GitHub.
 
 <ul>
     <li>
-        I'm primarily interested in developer productivity with DevOps and .NET.
+        I'm primarily interested in developer productivity with DevOps and GitHub. I am also interested in .NET, Azure PaaS, and game development
     </li>
     <li>
         I'm on Twitter: https://twitter.com/samsmithnz
@@ -15,4 +15,4 @@ I am Sam Smith, an Application Development Manager at Microsoft, helping custome
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Thursday, July 29, 5:26 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Thursday, July 29, 7:56 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
