@@ -14,7 +14,7 @@ I am Sam Smith, a Customer Success Architect at GitHub, helping customers with t
             I have an Azure/DevOps blog, https://samlearnsazure.blog
             </li>
             <li>
-            I have a personal website: www.samsmithnz.com (source is in it's <a href="https://github.com/SamSmithNZ-dotcom">own org</a>)
+            I have a personal website: www.samsmithnz.com (source is in a <a href="https://github.com/SamSmithNZ-dotcom">separate org</a>)
             </li>
             <li>
             I created a tool to <a href="https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter">migrate Azure Pipelines to GitHub Actions</a>
@@ -29,13 +29,8 @@ I am Sam Smith, a Customer Success Architect at GitHub, helping customers with t
             I write very <a href="https://github.com/samsmithnz/OpinionatedSoftwareAdvice">opinionated software advice</a>
             </li>
             <li>
-            I tinker with <a href="https://github.com/samsmithnz/BattleSimulator">amateur game development</a>. I sometimes <a href="https://turnbasedengine.blogspot.com/">blog about this</a> too
+            I tinker with <a href="https://github.com/samsmithnz/BattleSimulator">amateur game development</a>. I sometimes <a href="https://turnbasedengine.blogspot.com/">blog about game dev</a> too
             </li>
         </ul>
     </li>
 </ul>
-
-<!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Saturday, July 31, 3:01 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
