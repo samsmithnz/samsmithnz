@@ -11,25 +11,25 @@ I am Sam Smith, a Customer Success Architect at GitHub, helping customers with t
         I have a number of projects I chip away at from time to time.
         <ul>
             <li>
-            - I have an Azure/DevOps blog: https://samlearnsazure.blog
+            I have an Azure/DevOps blog, https://samlearnsazure.blog
             </li>
             <li>
-            - I have a personal website: www.samsmithnz.com (source is in it's own org: https://github.com/SamSmithNZ-dotcom)
+            I have a personal website: www.samsmithnz.com (source is in it's <a href="https://github.com/SamSmithNZ-dotcom">own org</a>)
             </li>
             <li>
-            - I created a tool to migrate Azure Pipelines to GitHub Actions: https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter
+            I created a tool to <a href="https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter">migrate Azure Pipelines to GitHub Actions</a>
             </li>
             <li>
-            - I created a tool to measure DORA DevOps metrics in Azure DevOps and GitHub: https://github.com/samsmithnz/DevOpsMetrics
+            I created a tool to <a href="https://github.com/samsmithnz/DevOpsMetrics">measure DORA DevOps metrics in Azure DevOps and GitHub</a> 
             </li>
             <li>
-            - I created a custom Feature Flags system: https://github.com/samsmithnz/SamsFeatureFlags
+            I created a very simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
             </li>
             <li>
-            - I write very opinionated software advice: https://github.com/samsmithnz/OpinionatedSoftwareAdvice
+            I write very <a href="https://github.com/samsmithnz/OpinionatedSoftwareAdvice">opinionated software advice</a>
             </li>
             <li>
-            - I tinker with amateur game development: https://github.com/samsmithnz/BattleSimulator. I sometimes blog about this too: https://turnbasedengine.blogspot.com/
+            I tinker with <a href="https://github.com/samsmithnz/BattleSimulator">amateur game development</a>. I sometimes <a href="https://turnbasedengine.blogspot.com/">blog about this</a> too
             </li>
         </ul>
     </li>
@@ -38,4 +38,4 @@ I am Sam Smith, a Customer Success Architect at GitHub, helping customers with t
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Saturday, July 31, 2:54 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Saturday, July 31, 3:01 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
