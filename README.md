@@ -1,4 +1,4 @@
-Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customers accelerate their DevOps journeys. (Last refresh: Aug 1, 2021, 7:29 PM EDT)
+Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customers accelerate their DevOps journeys. (Last refresh: Aug 1, 2021, 7:33 PM EDT)
 
 <ul>
     <li>
@@ -14,7 +14,7 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
             I have an Azure/DevOps blog, https://samlearnsazure.blog. Stay tuned for a GitHub specific blog!
             </li>
             <li>
-            I have a personal website: www.samsmithnz.com, where I store Guitar Tab, World Cup stats, and much much more. (source is in a <a href="https://github.com/SamSmithNZ-dotcom">separate org</a>)
+            I have a personal website: www.samsmithnz.com, where I store Guitar Tab, World Cup stats, and much much more. (<a href="https://github.com/SamSmithNZ-dotcom">source</a>)
             </li>
             <li>
             I created a tool to <a href="https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter">migrate Azure Pipelines to GitHub Actions</a>
@@ -40,5 +40,5 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Aug 1, 2021, 7:29 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Aug 1, 2021, 7:33 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 -->
