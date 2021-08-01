@@ -1,4 +1,4 @@
-I am Sam Smith, a Customer Success Architect at GitHub, helping customers accelerate their DevOps journeys with GitHub. (Last refresh: Aug 1, 2021, 5:14 PM EDT)
+I am Sam Smith, a Customer Success Architect at GitHub, helping customers accelerate their DevOps journeys with GitHub. (Last refresh: Aug 1, 2021, 5:19 PM EDT)
 
 <ul>
     <li>
@@ -7,10 +7,7 @@ I am Sam Smith, a Customer Success Architect at GitHub, helping customers accele
     <li>
         I'm on Twitter: https://twitter.com/samsmithnz
     </li>
-    <li>
-        <Table>
-        <tr>
-        <td>
+    <li>      
          I have a number of projects I chip away at from time to time.
         <ul>
             <li>
@@ -35,17 +32,11 @@ I am Sam Smith, a Customer Success Architect at GitHub, helping customers accele
             I tinker with <a href="https://github.com/samsmithnz/BattleSimulator">amateur game development</a>. I sometimes <a href="https://turnbasedengine.blogspot.com/">blog about game dev</a> too
             </li>
         </ul>
-        </td>
-        <td>
-        [![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)
-        </td>
-        </tr>
-        </table>
     </li>
 </ul>
 
-
+[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Aug 1, 2021, 5:14 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Aug 1, 2021, 5:19 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 -->
