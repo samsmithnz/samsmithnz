@@ -8,7 +8,7 @@ I am Sam Smith, a Customer Success Architect at GitHub, helping customers accele
         I'm on Twitter: https://twitter.com/samsmithnz
     </li>
     <li>
-        <Table>
+        <Table class="border : 0px solid #000000;">
         <tr>
         <td>
          I have a number of projects I chip away at from time to time.
