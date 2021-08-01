@@ -10,8 +10,8 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 let DATA = {
     name: 'Sam Smith',
     date: new Date().toLocaleDateString('en-US', {
-        weekday: 'long',
-        month: 'long',
+				    year: 'numeric',
+        month: 'short',
         day: 'numeric',
         hour: 'numeric',
         minute: 'numeric',
