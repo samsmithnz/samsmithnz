@@ -11,7 +11,7 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
          I have a number of projects that enable me to experiment, that I chip away at, from time to time:
         <ul>
             <li>
-            I have an Azure/DevOps blog, https://samlearnsazure.blog. Stay tuned for a GitHub specific blog!
+            I have an Azure/DevOps blog, https://samlearnsazure.blog. 
             </li>
             <li>
             I have a personal website: www.samsmithnz.com, where I store Guitar Tab, World Cup stats, and much much more. (<a href="https://github.com/SamSmithNZ-dotcom">source</a>)
@@ -38,8 +38,8 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 [![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Aug 2, 2021, 8:07 PM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Aug 2, 2021, 10:19 PM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Aug 2, 2021, 8:07 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>! Last refresh: Aug 2, 2021, 10:19 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 -->
