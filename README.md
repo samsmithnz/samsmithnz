@@ -1,15 +1,5 @@
 Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customers accelerate their DevOps journeys.
 
-```
-                                    _ _   _               
-                                   (_) | | |              
-  ___  __ _ _ __ ___  ___ _ __ ___  _| |_| |__  _ __  ____
- / __|/ _` | '_ ` _ \/ __| '_ ` _ \| | __| '_ \| '_ \|_  /
- \__ \ (_| | | | | | \__ \ | | | | | | |_| | | | | | |/ / 
- |___/\__,_|_| |_| |_|___/_| |_| |_|_|\__|_| |_|_| |_/___|
-```                                                       
-                                                                                                             
-
 <ul>
     <li>
         I'm primarily interested in developer productivity with DevOps and GitHub. I am also interested in .NET, Azure PaaS, and game development with Unity3d
@@ -48,6 +38,6 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Nov 2, 2021, 4:19 PM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Nov 2, 2021, 4:23 PM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
