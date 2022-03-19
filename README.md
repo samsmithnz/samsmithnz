@@ -17,10 +17,22 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
             I have a personal website: www.samsmithnz.com, where I store Guitar Tab, World Cup stats, and much much more. (<a href="https://github.com/SamSmithNZ-dotcom">source</a>)
             </li>
             <li>
+            I created a tool to generate <a href="https://github.com/samsmithnz/GitHubActionsDotNet">GitHub Actions and Dependabot</a> files with .NET 
+            </li>
+            <li>
             I created a tool to <a href="https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter">migrate Azure Pipelines to GitHub Actions</a>
             </li>
             <li>
             I created a tool to <a href="https://github.com/samsmithnz/DevOpsMetrics">measure DORA DevOps metrics in Azure DevOps and GitHub</a> 
+            </li>
+            <li>
+            I created a very simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
+            </li>
+            <li>
+            I created a tool to automate the <a href="https://github.com/samsmithnz/RepoAutomation">creation of repos with .NET projects</a> 
+            </li>
+            <li>
+            I created a tool to <a href="https://github.com/samsmithnz/RepoGovernance">POC governance</a> in my repositories  
             </li>
             <li>
             I created a very simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
@@ -38,6 +50,6 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Mar 18, 2022, 8:09 PM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Mar 18, 2022, 9:43 PM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
