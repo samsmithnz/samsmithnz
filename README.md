@@ -38,7 +38,7 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
             I created a very simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
             </li>
             <li>
-            I write very <a href="https://github.com/samsmithnz/OpinionatedSoftwareAdvice">opinionated software advice</a>, that should not be taken 100% seriously
+            I write very <a href="https://github.com/samsmithnz/OpinionatedSoftwareAdvice">opinionated software advice</a>, that should not be taken [too] seriously
             </li>
             <li>
             I tinker with <a href="https://github.com/samsmithnz/BattleSimulator">amateur game development</a>. I sometimes <a href="https://turnbasedengine.blogspot.com/">blog about game dev</a> too
@@ -50,6 +50,6 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Apr 27, 2022, 2:08 PM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Apr 27, 2022, 3:03 PM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
