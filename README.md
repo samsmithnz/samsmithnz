@@ -50,6 +50,6 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Jun 4, 2022, 2:03 PM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Jun 4, 2022, 8:14 PM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
