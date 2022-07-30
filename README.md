@@ -8,34 +8,34 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
         I discuss DevOps and .NET on Twitter: https://twitter.com/samsmithnz
     </li>
     <li>      
-         I have a number of projects that enable me to experiment, that I chip away at, from time to time:
+         I have a number of projects that I use to experiment and build various solutions:
         <ul>
             <li>
-            I have an Azure/DevOps blog, https://samlearnsazure.blog. 
+            I have an Azure/DevOps/GitHub blog, https://samlearnsazure.blog. 
             </li>
             <li>
             I have a personal website: www.samsmithnz.com, where I store Guitar Tab, World Cup stats, and much much more. (<a href="https://github.com/SamSmithNZ-dotcom">source</a>)
             </li>
             <li>
-            I created a tool to generate <a href="https://github.com/samsmithnz/GitHubActionsDotNet">GitHub Actions and Dependabot</a> files with .NET 
+            A tool to generate <a href="https://github.com/samsmithnz/GitHubActionsDotNet">GitHub Actions and Dependabot</a> files with .NET 
             </li>
             <li>
-            I created a tool to <a href="https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter">migrate Azure Pipelines to GitHub Actions</a>
+            A tool to <a href="https://github.com/samsmithnz/AzurePipelinesToGitHubActionsConverter">migrate Azure Pipelines to GitHub Actions</a>
             </li>
             <li>
-            I created a tool to <a href="https://github.com/samsmithnz/DevOpsMetrics">measure DORA DevOps metrics in Azure DevOps and GitHub</a> 
+            A tool to <a href="https://github.com/samsmithnz/DevOpsMetrics">measure DORA DevOps metrics in Azure DevOps and GitHub</a> 
             </li>
             <li>
-            I created a very simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
+            A simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
             </li>
             <li>
-            I created a tool to automate the <a href="https://github.com/samsmithnz/RepoAutomation">creation of repos with .NET projects</a> 
+            A tool to automate the <a href="https://github.com/samsmithnz/RepoAutomation">creation of repos with .NET projects</a> 
             </li>
             <li>
-            I created a tool to <a href="https://github.com/samsmithnz/RepoGovernance">POC governance</a> in my repositories  
+            A tool to <a href="https://github.com/samsmithnz/RepoGovernance">add governance</a> to my repositories  
             </li>
             <li>
-            I created a very simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
+            A <a href="https://github.com/samsmithnz/DotNetCensus">.NET Census tool</a>, to scan folders and repos to count and summarize .NET versions.
             </li>
             <li>
             I write very <a href="https://github.com/samsmithnz/OpinionatedSoftwareAdvice">opinionated software advice</a>, that should not be taken [too] seriously
@@ -50,6 +50,6 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Jul 30, 2022, 2:04 PM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Jul 30, 2022, 5:11 PM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
