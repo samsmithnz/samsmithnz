@@ -26,13 +26,13 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
             A tool to <a href="https://github.com/samsmithnz/DevOpsMetrics">measure DORA DevOps metrics in Azure DevOps and GitHub</a> 
             </li>
             <li>
-            A simple <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
+            A tool to manage <a href="https://github.com/samsmithnz/SamsFeatureFlags">custom Feature Flags system</a>
             </li>
             <li>
             A tool to automate the <a href="https://github.com/samsmithnz/RepoAutomation">creation of repos with .NET projects</a> 
             </li>
             <li>
-            A tool to <a href="https://github.com/samsmithnz/RepoGovernance">add governance</a> to my repositories  
+            A tool to add <a href="https://github.com/samsmithnz/RepoGovernance">governance</a> to my repositories  
             </li>
             <li>
             A <a href="https://github.com/samsmithnz/DotNetCensus">.NET Census tool</a>, to scan folders and repos to count and summarize .NET versions.
@@ -50,6 +50,6 @@ Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Jul 31, 2022, 2:03 AM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Jul 31, 2022, 6:57 AM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
