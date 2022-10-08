@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    if: github.ref == 'refs/heads/main' # only do this on the main branch - the feature branches won't work with dependabot anyway.
     steps:
       - name: Checkout current repository to main branch
         uses: actions/checkout@v3
