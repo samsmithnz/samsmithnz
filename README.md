@@ -1,4 +1,4 @@
-Hi! I'm Sam Smith, a Customer Success Architect at GitHub, where I help customers accelerate their DevOps journeys.  
+Hi! I'm Sam Smith, a senrio manager of Customer Success Architecture at GitHub, where I help customers accelerate their DevOps journeys.  
 
 <ul>
     <li>
