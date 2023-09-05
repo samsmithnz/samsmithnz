@@ -12,7 +12,7 @@ jobs:
     if: github.ref == 'refs/heads/main' # only do this on the main branch - the feature branches won't work with dependabot anyway.
     steps:
       - name: Checkout current repository to main branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup NodeJs 13.x
         uses: actions/setup-node@v3.8.1
         with:
