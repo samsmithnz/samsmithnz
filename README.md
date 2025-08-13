@@ -4,9 +4,6 @@ Hi! I'm Sam Smith, a senior manager of Customer Success Architecture at GitHub, 
     <li>
         I'm primarily interested in developer productivity with DevOps and GitHub. I am also interested in .NET, Azure PaaS, and game development with Unity3d
     </li>
-    <li>
-        I discuss DevOps and .NET on Twitter: https://twitter.com/samsmithnz
-    </li>
     <li>      
          I have a number of projects that I use to experiment and build various solutions:
         <ul>
@@ -49,6 +46,6 @@ Hi! I'm Sam Smith, a senior manager of Customer Success Architecture at GitHub, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Aug 13, 2025, 8:07 AM EDT)
+<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Learn how to make these profiles for your own account</a> (Last refreshed: Aug 13, 2025, 2:05 PM EDT)
 
 <!--[![SamSmithNZ's github stats](https://github-readme-stats.vercel.app/api?username=samsmithnz)](https://github.com/anuraghazra/github-readme-stats)-->
